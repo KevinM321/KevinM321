@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### 💬 Programming Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinM321&layout=compact&langs_count=5&theme=prussian)
+
+
+
 <!--
 **KevinM321/KevinM321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
